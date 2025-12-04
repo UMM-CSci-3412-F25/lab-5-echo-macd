@@ -75,5 +75,3 @@ public class EchoClient {
       System.out.println("We caught an unexpected exception");
       System.err.println(ioe);
     }
-  }
-}
